@@ -1,36 +1,35 @@
 Program Evaluation Unit Lead:
 1) Explain the overall design of the project. 
-2) Explain the primary research methodology and the need to do in-depth interview.
+2) Explain the primary research methodology and the need to do an in-depth interview.
 3) Explain the sampling data to be used and how I am planning to use it in the project.
-4) Seek inputs on the data refinement and special considerations, data engineering methodologies to be applied.
-5) Understand the research done in the past for colonoscopy numbers and its outcomes.
+4) Is the census numbers for an age directly proportional to the uptake rate?
+5) Is there a hesitancy at a younger age to participate in a bowel screen programme?
+6) Is the probability of men and women undergoing colonoscopy the same?
+7) The information on the samples is provided in the information leaflet is there any other measure/feature I need to consider for accurate predictions?
+8) Are there any research done with regard to the population extension, if yes what are the features considered in the study? 
+9) Is the population across different ages in the 2022 census proportional to 2016, is there any analytical study done on the same?
+ 
 
 Research Officers:
 1) Explain the overall design of the project.
-2) Explain the primary research methodology and the need to do in-depth interview.
+2) Explain the primary research methodology and the need to do an in-depth interview.
 3) Explain the sampling data to be used and how I am planning to use it in the project.
-4) Understand the approach towards in-depth interview, artifacts post the interview etc. - Mairead
-5) Understand the research done on the 2022 census , its impact on the existing COR data , validate the design with the census research done. - Roisin
+4) Understand the approach towards the in-depth interview, artifacts post the interview, etc. - Mairead
+5) Understand the research done on the 2022 census, and its impact on the existing COR data, and validate the design with the census research done. - Roisin
+6) Is the population across different ages in the 2022 census proportional to 2016, is there any analytical study done on the same?
+
 
 Deputy Program Manager:
 1) Explain the overall design of the project. 
-2) Explain the sampling data to be used and how I am planning to use it in the project.
-3) Seek inputs on the features , that could impact colonoscopy numbers.
-4) Understand any studies done while planning for the age range extension.
-5) Key considerations while planning for the colonoscopy numbers.
-6) Percentage rise/ fall expected in the extended age group.
+2) Explain the primary research methodology and the need to do an in-depth interview.
+3) Explain the sampling data to be used and how I am planning to use it in the project.
+4) Is the census numbers for an age directly proportional to the uptake rate?
+5) Is there a hesitancy at a younger age to participate in a bowel screen programme?
+6) Is the probability of men and women undergoing colonoscopy the same?
+7) The information on the samples is provided in the information leaflet is there any other measure/feature I need to consider for accurate predictions?
+8) Are there any research done with regard to the population extension, if yes what are the features considered in the study? 
+9) what are the practical challenges you see while predicting the colonoscopy numbers based on the census data?
 
-Clinical Co-ordinator:
-1) Explain the overall design of the project. 
-2) Explain the sampling data to be used and how I am planning to use it in the project.
-3) Seek inputs on the features , that could impact colonoscopy numbers.
-4) Understand any studies done while planning for the age range extension.
-5) Key considerations while planning for the colonoscopy numbers.
-6) Percentage rise/ fall expected in the extended age group.
-7) Practical challenges while predicting the colonoscopy numbers.
 
-Data Security Officer:
-1) Explain the overall design of the project. 
-2) Explain the sampling data to be used and how I am planning to use it in the project.
-3) Understand the level of data security that should be maintained even though the personal data is not used.
-4) Non-discloure agreement and other key documentations if any.
+
+
