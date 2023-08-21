@@ -1,0 +1,10 @@
+1) Explain the overall design of the project. 
+2) Explain the primary research methodology and the need to do an in-depth interview.
+3) Explain the sampling data to be used and how I am planning to use it in the project.
+4) Is the census numbers for an age directly proportional to the uptake rate?
+5) Is there a hesitancy at a younger age to participate in a bowel screen programme?
+6) Is the probability of men and women undergoing colonoscopy the same?
+7) Are there any other measure/feature I need to consider (apart from the information provided in the Information leafelet) for accurate predictions?
+8) Are there any research done in the past with regards to the population extension, if yes what are the features considered for the study?
+9) Are there any colonoscopy/screening predictions done in the past for any of the programmes? what were the learnings?
+9) Is the population across different ages in the 2022 census proportional to 2016, is there any analytical study done on the same?
