@@ -1,0 +1,9 @@
+Checklist for Submission
+1) Report
+2) Jupyter Notebook
+
+The Depth interview artifacts are attached to the report.
+I confirm the participants are all above 18, and their consents are attached in the GitHub. 
+
+Report - MSC_Capstone_Report.doc
+Jupyter Notebook - MScDA_Capstone.ipynb
